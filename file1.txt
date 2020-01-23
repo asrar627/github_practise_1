@@ -2,4 +2,4 @@ hey hi
 what are you doing
 Please stash it
 stash 2 text
-
+changings from git 
