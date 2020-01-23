@@ -3,3 +3,4 @@ what are you doing
 Please stash it
 stash 2 text
 not at all
+changings from git 
